@@ -37,4 +37,6 @@ Here’s the sample of a training data:
 ## Output:
 Here’s the result of the testing done on a big patch that was cropped then merged:
 ![Presentation1](https://user-images.githubusercontent.com/88712232/130236231-593d3c62-eca5-4ba7-8fcf-f782c17f4075.jpg)
+
+and a quick closeup to the given image:
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/88712232/130236792-31f618ec-74ce-4dcb-8edd-08bdc290d360.png)
