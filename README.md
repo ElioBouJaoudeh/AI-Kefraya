@@ -34,4 +34,4 @@ Here’s the sample of a training data:
 
 ## Output:
 Here’s the result of the testing done on a big patch that was cropped then merged:
-![GitHub Logo](/image/output.jpg)
+![GitHub Logo](/image/newmerge.jpg)
