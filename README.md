@@ -14,7 +14,7 @@ yolov3
 ```
 Here’s the sample of a training data:
 
-![image](https://user-images.githubusercontent.com/88712232/130237023-a6d91552-d2af-42c6-a7c1-27808b6abe1e.png)
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/88712232/130237426-a5d4acf5-efbc-4ce7-859a-ae04f5525c9c.png)
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/88712232/130237097-ebf9bbe8-0589-43fb-b042-f1248bd70f60.png)
 
 3. Clone the repository and upload the `Train_YoloV3_Multiple.ipynb` notebook on Google Colab.(LINK)
