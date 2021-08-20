@@ -13,8 +13,9 @@ yolov3
    |__ *.txt (all annotation files)
 ```
 Here’s the sample of a training data:
+
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/88712232/130236622-e6bccf1e-c7af-48c8-a246-f426813ac57b.png)
-![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/88712232/130236640-711ebb6a-425e-40b2-b9ec-3fc18284a973.png)![MicrosoftTeams-image](https://user-images.githubusercontent.com/88712232/130236751-c245aad4-a1f1-4421-ae93-808740b06ce1.png)
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/88712232/130236640-711ebb6a-425e-40b2-b9ec-3fc18284a973.png)
 
 3. Clone the repository and upload the `Train_YoloV3_Multiple.ipynb` notebook on Google Colab.(LINK)
 
